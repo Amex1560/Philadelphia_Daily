@@ -2,4 +2,4 @@ STUDENT ID = 55
 STUDENT FIRST NAME = Amare
 STUDENT LAST NAME = Weldearegay
 STUDENT COURSE = Computer Scince
-STUDENT GRADEa = A+ ......
+STUDENT GRADEa = A+ ......Exellent job
